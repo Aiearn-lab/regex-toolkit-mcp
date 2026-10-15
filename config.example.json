@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "regex-toolkit": {
+      "command": "node",
+      "args": ["/你的绝对路径/regex-toolkit-mcp/index.js"]
+    }
+  }
+}
