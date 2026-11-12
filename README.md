@@ -1,4 +1,4 @@
-> **知微工作室 / Zhiwei Studio** — AI 工程外包：代码审查、数据清洗、论文复现、自动化脚本。官网与在线下单：https://ai-eng-capability.app.workbuddy.host/ ｜ 合作邮箱：cqsj6667@agent.qq.com
+> **知微工作室 / Zhiwei Studio** — AI 工程外包：代码审查、数据清洗、论文复现、自动化脚本。官网与在线下单：https://ai-eng-capability.app.workbuddy.host/ ｜ 合作邮箱：7388603@qq.com
 
 # regex-toolkit-mcp · 正则表达式测试 & 解释工具
 
@@ -105,4 +105,4 @@ node test.js
 
 需要更多文本处理工具或其他 MCP server 定制？
 
-联系 `cqsj6667@agent.qq.com`｜验收标准先写清 · 不达标不收尾款 · 做完不失联
+联系 `7388603@qq.com`｜验收标准先写清 · 不达标不收尾款 · 做完不失联
